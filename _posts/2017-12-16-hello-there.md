@@ -2,7 +2,7 @@
 layout: post
 title: "Hello There"
 date: 2017-12-16 09:29:03
-image: ''
+image: 'https://lorempixel.com/600/315/'
 description: A simple test to see how things are going fast
 category: 'coding'
 tags:
