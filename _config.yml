@@ -1,7 +1,7 @@
 # ----------- CONFIGURABLE START -----------
 title:            "AlphaBlog"
 description:      "16 year old hacker, developer, designer and system admin. Learn about my life journey. Not required though"
-url:              https://alphaman # Site url, without a slash at the end.
+url:              https://alphaman.me # Site url, without a slash at the end.
 signoff:          "xXAlphaManXx" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
