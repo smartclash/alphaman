@@ -10,7 +10,7 @@ PHPStorm does have an awesome niche feature called the Integrated Terminal. It a
 ## Get it going
 
 1. Go to `File -> Settings -> Tools -> Terminal`. I would always recommend you checking out the keybindings.
-2. Enter the small snippet in your `Shell Path` to see the magic.
+2. Enter the small snippet in your *Shell Path* to see the magic.
     ```sh
     "C:\Program Files\Git\bin\sh.exe" --login -i
     ```
@@ -19,5 +19,3 @@ PHPStorm does have an awesome niche feature called the Integrated Terminal. It a
 ---
 
 Drop a comment below and let me know what you think about this small post. I would be glad if that helped you a lot.
-
-***Till then, Peace!***
